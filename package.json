@@ -1,0 +1,12 @@
+{
+  "name": "com.haku.scenemanager",
+  "version": "1.0.0",
+  "displayName": "Haku tools: SceneManager",
+  "description": "Change Scene And Exit Application ",
+  "unity": "2022.3",
+  "author": {
+    "name": "Haku",
+    "email": "iasapieny@gmail.com",
+    "url": ""
+  }
+}
